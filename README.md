@@ -42,13 +42,20 @@ The **PDF to Audio Converter** allows users to select any PDF document through a
    ```bash
    git clone [https://github.com/KNakshitha/pdf-to-audio-converter.git](https://github.com/KNakshitha/pdf-to-audio-converter.git)
    cd pdf-to-audio-converter
+   ```
 
-2. Install dependencies:
+2. **Install dependencies:**
+   ```bash
    pip install pyttsx3 PyPDF2
+   ```
 
-3. Run the script:
+3. **Run the script:**
+   ```bash
    python3 main.py
+   ```
 
-4. Select a PDF from the file dialog prompt and listen!
+4. **Select a PDF from the file dialog prompt and listen!**
    
-img width="492" height="362" alt="926e4b9b-2fbf-4563-8a96-b0089db640fb" src="https://github.com/user-attachments/assets/8074552e-0e94-46b8-942a-6b99b5b702e2" 
+5.
+
+<img width="492" height="362" alt="Preview" src="https://github.com/user-attachments/assets/807455...0e94-46b8-942a-6b99b5b702e2">
