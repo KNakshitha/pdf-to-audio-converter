@@ -58,4 +58,5 @@ The **PDF to Audio Converter** allows users to select any PDF document through a
    
 5.
 
-<img width="492" height="362" alt="Preview" src="https://github.com/user-attachments/assets/807455...0e94-46b8-942a-6b99b5b702e2">
+
+
